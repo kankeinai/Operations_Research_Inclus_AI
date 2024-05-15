@@ -1,1 +1,1 @@
-# Operations_Research_Inclus_AI
+# Operations Research Inclus AI
